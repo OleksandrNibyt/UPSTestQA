@@ -1,0 +1,11 @@
+country: United States
+name: Admin
+address: 4970 El Camino Real
+zip: "94022"
+email: mail@example.com
+phone: "1234344389"
+
+
+nameReciever: Jon Doe
+addressReciever: 870 7th Ave
+zipReciever: "10019"
